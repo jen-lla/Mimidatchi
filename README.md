@@ -35,16 +35,17 @@ Ne laissez pas Mimi seul trop longtemps !!
 
 1. Cloner le projet :
 
+```bash
 git clone https://github.com/jen-lla/Mimidatchi.git
 cd Mimidatchi
-
+```
 2. Lancer le jeu
 
 Bash :
-
+```bash
 cc main.c actions.c mimidatchi.c -o mimidatchi
 ./mimidatchi
-
+```
 Une version Windows sera bientôt disponible.
 PowerShell :
 
