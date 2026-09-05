@@ -1,4 +1,6 @@
 # 🐱 Mimidatchi
+<img width="365" height="461" alt="interface" src="https://github.com/user-attachments/assets/70b6c22a-26fc-4f6b-8de6-7990aa2a5b8a" />
+<img width="366" height="314" alt="image" src="https://github.com/user-attachments/assets/e20e37a9-58c6-423c-aefd-aa3711f2bee5" />
 
 > Un petit jeu de terminal inspiré des Tamagotchi, développé en langage C 💗
 
