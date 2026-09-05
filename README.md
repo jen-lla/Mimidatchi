@@ -13,6 +13,7 @@ Prenez soin de Mimi le petit chat en gérant trois statistiques :
 - 💤 Sommeil
 
 Les actions du joueur modifient les statistiques de Mimi et celles-ci diminuent également avec le temps.
+
 Ne laissez pas Mimi seul trop longtemps !!
 
 ## Fonctionnalités
@@ -47,6 +48,7 @@ cc main.c actions.c mimidatchi.c -o mimidatchi
 ./mimidatchi
 ```
 Une version Windows sera bientôt disponible.
+
 PowerShell :
 
 .\Mimidatchi.exe
