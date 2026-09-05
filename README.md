@@ -40,15 +40,23 @@ Ne laissez pas Mimi seul trop longtemps !!
 git clone https://github.com/jen-lla/Mimidatchi.git
 cd Mimidatchi
 ```
-2. Lancer le jeu
 
-Bash :
+2. Compiler le jeu :
+
 ```bash
 cc main.c actions.c mimidatchi.c -o mimidatchi
+```
+
+3. Lancer le jeu :
+
+```bash
 ./mimidatchi
 ```
+
+### Windows
+
 Une version Windows sera bientôt disponible.
 
-PowerShell :
-
+```powershell
 .\Mimidatchi.exe
+```
