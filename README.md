@@ -33,7 +33,7 @@ Ne laissez pas Mimi seul trop longtemps !!
 
 1. Cloner le projet :
 
-git clone <git@github.com:jen-lla/Mimidatchi.git>
+git clone https://github.com/jen-lla/Mimidatchi.git
 cd Mimidatchi
 
 2. Lancer le jeu
